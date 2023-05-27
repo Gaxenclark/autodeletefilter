@@ -6,11 +6,11 @@ class Script(object):
  
  𝑖 𝑎𝑚  𝑝𝑒𝑟𝑠𝑜𝑛𝑎𝑙 𝐵𝑜𝑡 𝑛𝑜𝑡 𝑝𝑢𝑏𝑙𝑖𝑐 
 
-𝐼𝑓 𝑢 𝑤𝑎𝑛𝑡 𝑡ℎ𝑖𝑠 𝑡𝑦𝑝𝑒 𝑜𝑓 𝑏𝑜𝑡 𝑚𝑒𝑠𝑠𝑎𝑔𝑒𝑠 𝑚𝑦 𝑂𝑤𝑛𝑒𝑟 ℎ𝑒 𝑤𝑖𝑙𝑙 𝑔𝑖𝑣𝑒 𝑢 𝑓𝑢𝑙𝑙 𝑟𝑒𝑝𝑜 𝑏𝑢𝑡 𝑝𝑎𝑖𝑑 @Pankajpandiyar
+𝐼𝑓 𝑢 𝑤𝑎𝑛𝑡 𝑡ℎ𝑖𝑠 𝑡𝑦𝑝𝑒 𝑜𝑓 𝑏𝑜𝑡 𝑚𝑒𝑠𝑠𝑎𝑔𝑒𝑠 𝑚𝑦 𝑂𝑤𝑛𝑒𝑟 ℎ𝑒 𝑤𝑖𝑙𝑙 𝑔𝑖𝑣𝑒 𝑢 𝑓𝑢𝑙𝑙 𝑟𝑒𝑝𝑜 𝑏𝑢𝑡 𝑝𝑎𝑖𝑑 @Unemployedcreator
 
 
 
-MADE BY @pankajpandiyar
+MADE BY @Unemployedcreator
 
 </b>
 """
@@ -59,9 +59,9 @@ MADE BY @pankajpandiyar
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Stark Filter Bot</b>
 
-⭕️<b>Creater :</b> @pankajpandiyar   
+⭕️<b>Creater :</b> @Unemployedcreator   
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
