@@ -4,19 +4,19 @@ import time
 class Config(object):
 
     # Get a bot token from botfather
-    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "5843311344:AAF6Waxg_DhF1tJfsyYNJ5_odUWYYh1xMNc")
+    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6212399137:AAG59qqOLn306rydBPF9pR8w7qeEX4UozgI")
 
 
     # Get from my.telegram.org (or @UseTGXBot)
-    API_ID = int(os.environ.get("API_ID", "10753388"))
+    API_ID = int(os.environ.get("API_ID", "25242804"))
 
 
     # Get from my.telegram.org (or @UseTGXBot)
-    API_HASH = os.environ.get("API_HASH", "bc2a8c10eada9c42315e869302c6cbc5")
+    API_HASH = os.environ.get("API_HASH", "bdc317842f60220121ded0a2fcdc0727")
     
     
     # Database URL from https://cloud.mongodb.com/
-    DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://filter:mdisk@cluster0.t0p9ywd.mongodb.net/?retryWrites=true&w=majority")
+    DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://gdc846017:blackpanther00@cluster0.zpakafu.mongodb.net/?retryWrites=true&w=majority")
 
 
     # Your database name from mongoDB
@@ -24,7 +24,7 @@ class Config(object):
 
 
     # ID of users that can use the bot commands
-    AUTH_USERS = set(str(x) for x in os.environ.get("AUTH_USERS", "966029924").split())
+    AUTH_USERS = set(str(x) for x in os.environ.get("AUTH_USERS", "6046028054").split())
 
     TIME = os.environ.get("TIME")
 
@@ -46,7 +46,7 @@ class Config(object):
     CONNECT_COMMAND = os.environ.get("CONNECT_COMMANDD", "addgroup")
     DISCONNECT_COMMAND = os.environ.get("DISCONNECT_COMMANDD", "disconnect")
 
-    ADMINS = os.environ.get("ADMINS", "966029924")
+    ADMINS = os.environ.get("ADMINS", "6046028054")
 
     # To record start time of bot
     BOT_START_TIME = time.time()
