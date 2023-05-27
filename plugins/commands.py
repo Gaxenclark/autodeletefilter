@@ -217,7 +217,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Developer", url=f"https://t.me/pankajpandiyar")
+                    InlineKeyboardButton("Developer", url=f"https://t.me/Unemployedcreator")
                 ]
             ]
         ),
@@ -246,7 +246,7 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Developer", url="https://t.me/pankajpandiyar")
+                    InlineKeyboardButton("Developer", url="https://t.me/Unemployedcreator")
 
                 ]
 
@@ -271,7 +271,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://t.me/pankajpandiyar")
+                        "SOURCE CODE", url="https://t.me/TooAdultsVideos")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
