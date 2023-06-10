@@ -4,7 +4,7 @@ import time
 class Config(object):
 
     # Get a bot token from botfather
-    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6212399137:AAG59qqOLn306rydBPF9pR8w7qeEX4UozgI")
+    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6004775861:AAEXKCAucIMaRhdPmDfxLQmGxh_Yhq-KG8k")
 
 
     # Get from my.telegram.org (or @UseTGXBot)
@@ -24,7 +24,7 @@ class Config(object):
 
 
     # ID of users that can use the bot commands
-    AUTH_USERS = set(str(x) for x in os.environ.get("AUTH_USERS", "6046028054").split())
+    AUTH_USERS = set(str(x) for x in os.environ.get("AUTH_USERS", "2068595855").split())
 
     TIME = os.environ.get("TIME")
 
@@ -40,13 +40,13 @@ class Config(object):
 
 
     # OPTIONAL - To set alternate BOT COMMANDS
-    ADD_FILTER_CMD = os.environ.get("ADD_FILTER_CMD", "filter")
+    ADD_FILTER_CMD = os.environ.get("ADD_FILTER_CMD", "add")
     DELETE_FILTER_CMD = os.environ.get("DELETE_FILTER_CMDD", "del")
     DELETE_ALL_CMD = os.environ.get("DELETE_ALL_CMDD", "delall")
-    CONNECT_COMMAND = os.environ.get("CONNECT_COMMANDD", "addgroup")
+    CONNECT_COMMAND = os.environ.get("CONNECT_COMMANDD", "connect")
     DISCONNECT_COMMAND = os.environ.get("DISCONNECT_COMMANDD", "disconnect")
 
-    ADMINS = os.environ.get("ADMINS", "6046028054")
+    ADMINS = os.environ.get("ADMINS", "2068595855")
 
     # To record start time of bot
     BOT_START_TIME = time.time()
