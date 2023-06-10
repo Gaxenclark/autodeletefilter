@@ -2,13 +2,15 @@ class Script(object):
 
     START_MSG = """<b>Hey 👋 {},
 
- 𝐼 𝑎𝑚 𝑢𝑛𝑙𝑖𝑚𝑖𝑡𝑒𝑑 𝑚𝑎𝑛𝑢𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟 𝑏𝑜𝑡 𝑤𝑖𝑡ℎ 𝑎𝑢𝑡𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑠𝑢𝑝𝑝𝑜𝑟𝑡 𝑡𝑜 𝑎𝑣𝑜𝑖𝑑 𝑐𝑜𝑝𝑦𝑟𝑖𝑔ℎ𝑡 
+I Aᴍ Uɴʟɪᴍɪᴛᴇᴅ Mᴀɴᴜᴀʟ Fɪʟᴛᴇʀ Bᴏᴛ Wɪᴛʜ Aᴜᴛᴏ Dᴇʟᴇᴛᴇ Sᴜᴘᴘᴏʀᴛ Tᴏ Aᴠᴏɪᴅ Cᴏᴘʏʀɪɢʜᴛ 
+
  
- 𝑖 𝑎𝑚  𝑝𝑒𝑟𝑠𝑜𝑛𝑎𝑙 𝐵𝑜𝑡 𝑛𝑜𝑡 𝑝𝑢𝑏𝑙𝑖𝑐 
 
-𝐼𝑓 𝑢 𝑤𝑎𝑛𝑡 𝑡ℎ𝑖𝑠 𝑡𝑦𝑝𝑒 𝑜𝑓 𝑏𝑜𝑡 𝑚𝑒𝑠𝑠𝑎𝑔𝑒𝑠 𝑚𝑦 𝑂𝑤𝑛𝑒𝑟 ℎ𝑒 𝑤𝑖𝑙𝑙 𝑔𝑖𝑣𝑒 𝑢 𝑓𝑢𝑙𝑙 𝑟𝑒𝑝𝑜 𝑏𝑢𝑡 𝑝𝑎𝑖𝑑 @Unemployedcreator
+ I Aᴍ Pᴇʀsᴏɴᴀʟ Bᴏᴛ Nᴏᴛ Pᴜʙʟɪᴄ 
 
+Iғ Yᴏᴜ Wᴀɴᴛ Tʜɪs Tʏᴘᴇ Oғ Bᴏᴛ Mᴇssᴀɢᴇs Mʏ Oᴡɴᴇʀ Hᴇ Wɪʟʟ Gɪᴠᴇ Yᴏᴜ Fᴜʟʟ Rᴇᴘᴏ @Unemployedcreator
 
+Fᴏʀ Mᴏʀᴇ Iɴғᴏʀᴍᴀᴛɪᴏɴs Cʟɪᴄᴋ Oɴ /help Cᴏᴍᴍᴀɴᴅ
 
 MADE BY @Unemployedcreator
 
@@ -29,7 +31,7 @@ MADE BY @Unemployedcreator
 
 <b>Filter Commands;</b>
 
-<code>/filter name reply</code>  -  Add filter for name
+<code>/add name reply</code>  -  Add filter for name
 
 <code>/del name</code>  -  Delete filter
 
@@ -40,15 +42,15 @@ MADE BY @Unemployedcreator
 
 <b>Connection Commands;</b>
 
-<code>/addgroup groupid</code>  -  Connect your group to my PM. You can also simply use,
-<code>/addgroup</code> in groups.
+<code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
+<code>/connect</code> in groups.
 
-
+<code>/connections<code>  -  Manage your connections.
 
 
 <b>Extras</b>
 
-
+<code>/status<code>  -  Shows current status of your bot (Auth User Only)
 
 /id  -  Shows ID information
 
@@ -59,7 +61,7 @@ MADE BY @Unemployedcreator
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Stark Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Sᴛᴀʀᴋ Fɪʟᴛᴇʀ Bᴏᴛ</b>
 
 ⭕️<b>Creater :</b> @Unemployedcreator   
 
